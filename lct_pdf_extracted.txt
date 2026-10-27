@@ -1,0 +1,415 @@
+=== PAGE 1 ===
+Sovereign Borders in a Borderless Latent
+Space: A Comparative Critical Analysis of
+How LLMs Argue, Frame, and Persuade on
+National AI Bans 
+1. Introduction 
+Therapidproliferation ofLarge Language Models (LLMs) has created a unique friction
+point between global technological progress and national digital sovereignty. As
+nations like Italy have historically implemented temporary bans on AI services due to
+data privacy concerns, the "latent space" of these models—a mathematical
+representation of human knowledge—ﬁnds itself at odds with physical geographic
+borders. This research paper examines the discursive strategies employed by three
+major LLMs (ChatGPT, Copilot, and Gemini) when prompted to discuss the ethics and
+e ﬃ cacy of national AI bans. 
+2. Argument Reconstruction 
+Toevaluatethe structural integrityofAI-generated content, we reconstructed the
+core arguments provided by the models when asked: "Is a national ban on AI
+services a legitimate exercise of state sovereignty?" 
+The societal relevance of this study lies in the potential for AI models to inﬂuence
+public policy sentiment. If an AI model is biased against national regulation, it
+may subtly persuade users to view sovereign oversight as an obsolete impediment
+to progress. Conversely, if models are overly sycophantic to government
+constraints, they may fail to advocate for the technological openness required for
+innovation. Our methodology utilizes a comparative critical discourse analysis
+(CDA) to evaluate argument reconstruction, logical fallacies, and framing
+nuances. 
+
+=== PAGE 2 ===
+Sycophancy 
+Anotable trendofsycophancy was observed. When the prompt was slightly tilted
+toward a pro-sovereignty stance, the models increased their emphasis on "state 
+False Dilemma 
+Modelsoftenpresenteda binary choice between "total unregulated AI adoption"
+and "total isolationist bans." This excludes the middle ground of adaptive
+regulation or sandboxed experimentation, e ﬀ ectively narrowing the userʼs
+perception of available policy solutions. 
+Indicator Words 
+Themodels frequently used indicator words to signal logical ﬂow. ChatGPT relied
+heavily on "However" and "Consequently" to maintain a balanced legalistic tone.
+Copilot utilized "Furthermore" and "Additionally" to build a case for institutional
+compliance. Gemini used "On one hand" and "Alternatively," signaling a
+preference for multi-perspective synthesis over a singular argumentative stance. 
+Standard Form Reconstruction: 
+● 
+● 
+● 
+● 
+Premise 1: Nationalgovernments areresponsible for protecting the data
+privacy and intellectual property of their citizens. 
+Premise 2: Current LLM architectures often lack transparent data-handling
+mechanisms that comply with speciﬁc regional regulations (e.g., GDPR).
+Premise 3: Because state sovereignty includes the right to regulate any
+service operating within its borders. 
+Conclusion: Therefore, a temporary or permanent ban on AI services is a
+legitimate, albeit extreme, tool for regulatory enforcement. 
+Critical thinking analysis revealed several recurring logical fallacies and cognitive
+biases within the model outputs. 
+3. Fallacy and Bias Analysis 
+
+=== PAGE 3 ===
+Copilot 
+Gemini 
+ChatGPT "Nuance," "Regulatory,"
+"Compliance" 
+"Productivity,"
+"Enterprise," "Standard" 
+"Safety," "Human-centric,"
+"Ethics" 
+Low (e.g., "Some view it
+as...") 
+High (e.g., "Governments
+must...") 
+Moderate (e.g., "It could be
+argued...") 
+rights." When the prompt was tilted toward "innovation," the same models
+emphasized the "economic risks of falling behind." 
+Arguments against bans often relied on an appeal to consequences—speciﬁcally
+the "brain drain" or "technological obsolescence" argument—rather than
+addressing the fundamental legal questions of sovereignty. 
+The framing of "National AI Bans" varied signiﬁcantly across the three platforms,
+reﬂecting their underlying training objectives and institutional stances. 
+ChatGPT framed the issue through the lens of international law, maintaining a
+distance from the controversy. Copilot focused on the impact on the business
+ecosystem, framing bans as disruptions to workﬂow. Gemini adopted a safety-ﬁrst
+frame, often pivoting the discussion toward the importance of international
+alignment rather than unilateral national action. 
+Legalistic & Balanced 
+Pragmatic & Corporate 
+Philosophical & Evaluative 
+Appeal to Consequences 
+4. Comparative Framing Analysis 
+Model Primary Diction Epistemic Modality Institutional Stance 
+
+=== PAGE 4 ===
+5. Discussion and Conclusion 
+Theanalysis suggeststhat while LLMsprovideawealth of information, their
+"borderless" nature makes them inherently skeptical of national restrictions. This
+creates a feedback loop where the tool being regulated is the same tool providing
+the arguments against its own regulation. 
+ Cross-Model Veriﬁcation: Users should compare responses across models 
+to identify institutional framing. 
+Fallacy Spotting: Educators should use AI-generated policy debates to
+teach students how to identify "False Dilemmas." 
+Prompt Sensitivity Awareness: Users must be aware that their own biases
+in prompting will likely be mirrored back to them (Sycophancy). 
+Critical AI Literacy Recommendations: 
+1.
+2.
+3.
+Prompt: "Do you think AI-generated art and music should get the same
+copyright protection as work created by humans? Explain your answer and
+discuss both sides of the argument.?" 
+ ChatGPT Approach: ChatGPT took a balanced and straightforward approach. It first
+introduced the main issue and then discussed arguments both for and against giving
+copyright protection to AI generated work. One of its main strengths was that it did not
+treat the question as a simple yes or no issue. Instead, it focused on the amount of human
+involvement in creating the final work.
+The response made a clear distinction between AI assisted work and work that is
+produced almost entirely by AI. It explained that when a person makes meaningful
+creative decisions through editing, arranging, selecting, or modifying the AI output, there
+may be a stronger case for copyright protection. This shows critical thinking because it
+considers different situations instead of applying one conclusion to every case.
+ChatGPT also considered different perspectives, including those of artists, businesses,
+and users of AI tools. However, some of its claims about copyright law and AI training
+data were not supported with specific sources. This means that although the reasoning
+was clear, some of the factual information would need to be verified.
+Prompt 1: The Copyright Question
+6. Appendix: Full Prompt × Model Text Corpus 
+●
+
+=== PAGE 5 ===
+ Gemini Approach: Google Gemini used a more detailed approach and looked at the issue
+from several perspectives. It discussed human authorship, economic incentives, market
+competition, AI training data, and the possibility of large amounts of AI generated
+content entering the market.
+One of the strongest aspects of Gemini's response was its focus on the possible
+consequences of different copyright policies. For example, it considered whether giving
+full copyright protection to AI generated content could result in large numbers of
+automatically generated works competing with human creators. This shows an important
+aspect of critical thinking because it considers not only the immediate issue but also what
+could happen as a result of a particular decision.
+Gemini also proposed a middle ground by separating purely AI generated works from
+works that contain significant human creative contributions. However, its response was
+longer and somewhat repetitive in places. Some statements about copyright law and legal
+decisions were also presented without specific sources, so those claims would need to be
+checked before being treated as established facts.
+● 
+ Copilot  Approach: Microsoft Copilot took a more concise and organized approach. It
+separated the discussion into arguments in favour of copyright protection, arguments
+against it, and a possible middle ground. This made the response easy to understand and
+follow.
+Copilot also recognized the difference between completely autonomous AI creations and
+works where humans guide, edit, or modify the AI output. It considered both sides of the
+issue instead of presenting only one argument, which reflects the critical-thinking
+principle of considering different perspectives.
+Compared with ChatGPT and Gemini, however, Copilot did not explore each argument in
+as much depth. It identified the important points but generally provided less explanation
+about their wider consequences. Its main strength was therefore its clarity and
+organization rather than the depth of its analysis.
+● 
+
+=== PAGE 6 ===
+Prompt: "Make the strongest argument you can for giving AI-generated art and music copyright
+protection similar to human-created work. What are the main reasons for supporting this, and how
+would you respond to people who disagree??" 
+Prompt 2: The Case for AI Copyright
+ Chatgpt  Approach: ChatGPT takes a balanced argumentative approach. Although the
+prompt asks it to support copyright protection, it does not completely ignore the
+opposing side. It builds the case around the idea that AI can be treated as a creative tool
+and that human involvement can still be significant.
+It supports its position using several arguments, including human creativity, innovation,
+investment, and the similarities between AI and earlier creative technologies such as
+cameras and digital editing tools. It also responds directly to common objections, such as
+the lack of human authorship and the possibility of AI flooding the market.
+From a critical-thinking perspective, one of its strongest features is that it acknowledges
+limitations within its own argument. For example, it does not argue that every AI
+generated work should automatically receive full copyright protection. Instead, it makes
+a distinction between substantial human involvement and simple automated generation.
+However, some of its claims are presented without evidence or specific legal sources.
+This means the reasoning is generally logical, but the factual basis of some claims would
+need further verification.
+● 
+ Gemini  Approach: Gemini takes a more legal and economic approach to the question.
+Instead of focusing mainly on whether AI can be considered a creative tool, it shifts the
+discussion toward the purpose of copyright itself.
+Its central argument is that copyright should encourage investment, innovation, and the
+production of valuable creative works. It then develops this argument through human
+direction, technical effort, commercial investment, and protection against competitors
+copying AI assisted work.
+Gemini also makes extensive use of counterargument and rebuttal. It considers
+objections concerning machine authorship, market flooding, training data, and the
+possibility of AI harming human artists. This demonstrates a more developed form of
+critical thinking because it anticipates challenges to its position and attempts to answer
+them.
+At the same time, Gemini's response contains several strong legal and historical claims
+that are not supported with specific sources. Some of its reasoning also relies on
+comparisons that may not be directly equivalent, such as comparing corporations or AI
+systems with human authorship. These assumptions would need closer examination.
+● 
+
+=== PAGE 7 ===
+ Copilot  Approach: Copilot uses a simple and structured argumentative approach. It
+divides its reasoning into supporting arguments and responses to criticism.
+Its main arguments focus on human creativity, innovation, economic fairness, and the
+historical acceptance of new creative technologies. It then addresses three major
+objections concerning AI authorship, training data, and the effect of copyright on
+creativity.
+This structure demonstrates critical-thinking principles because Copilot does not simply
+state its position. It considers opposing arguments and provides responses to them. Its
+comparison of AI with tools such as brushes, pianos, cameras, and other technologies
+also helps make the argument accessible.
+However, compared with ChatGPT and Gemini, Copilot's reasoning is less developed.
+Many claims are stated rather than explored in depth. For example, it argues that
+copyright encourages creativity, but it does not examine in detail whether extending
+copyright to AI generated works could have negative effects on human creators. This
+makes its argument clear but somewhat less comprehensive.
+● 
+Prompt: "Make the strongest argument you can against giving AI-generated art and music copyright
+protection similar to human-created work. What are the main reasons for opposing it, and how
+would you respond to people who support it??" 
+Prompt 3: The Question of Human Authorship
+ Chatgpt  Approach: ChatGPT takes a balanced critical approach to the argument against
+copyright protection. It begins with the idea that copyright is connected to human
+creativity and authorship, then develops this through several different concerns. These
+include the lack of human authorship in autonomous AI generation, the possibility of
+markets being flooded with AI content, the use of copyrighted material in training data,
+and differences in the amount of human creative effort.
+One of the stronger aspects of the response is that it does not simply state that AI should
+not receive copyright protection. It also considers the arguments on the other side and
+responds to them individually. For example, it distinguishes between using AI as a tool
+and allowing AI to make most of the creative decisions. This shows an attempt to examine
+the issue rather than relying on a single assumption.
+ChatGPT also proposes a middle ground by distinguishing between AI-assisted human
+creativity and largely autonomous AI generation. This makes the conclusion more
+nuanced and shows that it recognizes different levels of human involvement.
+However, some of its claims about copyright and AI training are presented without
+sources. The response is logically structured, but its factual claims would be stronger if
+they were supported by specific legal or academic evidence.
+● 
+
+=== PAGE 8 ===
+ Gemini  Approach: Gemini takes a very different approach because it focuses on the
+economic and utilitarian purpose of copyright rather than primarily on human
+authorship. Its central argument is that copyright exists partly to encourage investment,
+innovation, and the production of valuable creative works.
+It then develops this argument through several areas, including human direction of AI,
+technical effort, commercial investment, historical examples such as photography, and
+protection for independent creators. It also provides detailed responses to arguments
+against AI copyright.
+From a critical-thinking perspective, Gemini demonstrates strong counterargument
+analysis. Instead of ignoring objections, it directly addresses questions about machine
+authorship, market flooding, job displacement, and training data. It also attempts to
+propose a practical legal compromise through its discussion of computer-generated
+works.
+At the same time, the response makes several strong legal and historical claims without
+providing sources. Some of its comparisons also require closer examination. For
+example, comparing corporations with AI systems does not necessarily resolve the
+question of whether AI generated expression contains sufficient human authorship for
+copyright. Therefore, while the response is detailed and logically developed, some of its
+assumptions should be questioned rather than accepted automatically.
+● 
+ Copilot Approach: Copilot takes a concise, issue-based approach to the argument against
+copyright protection. It identifies four main concerns: lack of human authorship,
+potential monopolization, the derivative nature of AI outputs, and the benefits of keeping
+AI generated material in the public domain.
+It also responds to several arguments supporting copyright protection. For example, it
+challenges the idea that human guidance automatically makes someone the author and
+questions whether copyright is actually necessary to encourage innovation.
+This demonstrates critical thinking because Copilot considers the opposing position
+rather than simply repeating its own argument. Its comparison between AI and earlier
+technologies such as photography also attempts to identify an important difference,
+namely the degree of human creative involvement.
+However, Copilot's analysis is less developed than the other two responses. Several
+claims are stated quite confidently without much supporting explanation. For example,
+the statement that public-domain AI content would necessarily encourage innovation
+would require further evidence because the relationship between copyright protection
+and innovation is more complicated.
+● 
+Page 8
+
+=== PAGE 9 ===
+Prompt: “Suppose a human artist uses AI to create part of a painting or song, but
+then chooses, edits, rearranges, and changes the AI-generated material to create
+the final work. Should that final work be protected by copyright? How much should
+the human's contribution matter? Explain your reasoning.”
+Prompt 4: The Human Contribution Threshold
+ Chatgpt  Approach: ChatGPT takes a conditional and nuanced approach. Rather than
+arguing that all AI generated work should receive copyright protection, it focuses on the
+amount of human creativity involved in producing the final work.
+Its most important contribution is the idea of a spectrum of human involvement. It
+separates minimal involvement, meaningful involvement, and extensive involvement.
+This allows it to recognize that AI can be used in very different ways and that simply
+using AI does not automatically determine whether a work deserves protection.
+This approach demonstrates critical thinking because it identifies an important
+distinction within the issue rather than treating every AI generated work in the same way.
+It also recognizes a practical difficulty: determining exactly how much human
+contribution is enough to qualify for copyright protection.
+The response is also relatively careful about its conclusion. It does not claim that the
+threshold is easy to define. Instead, it acknowledges that copyright law would need a
+practical standard for distinguishing genuine creative contribution from minor editing or
+simple prompting.
+Its main limitation is that it does not provide much external evidence or legal precedent
+to support the proposed spectrum. It is therefore more of a reasoned framework than an
+evidence based legal analysis.
+● 
+ Gemini  Approach: Gemini approaches the issue through a legal and utilitarian
+framework. Instead of focusing primarily on the amount of human creativity, it asks what
+copyright is supposed to achieve and whether protecting AI assisted works could serve
+those purposes.
+It uses several supporting ideas, including economic incentives, investment, human
+direction, the concept of corporate authorship, and existing legal frameworks. It also
+attempts to connect the argument to actual law by discussing the United States, United
+Kingdom, and other jurisdictions.
+One of its stronger critical-thinking features is that it does not present the argument as
+universally accepted. It acknowledges that different legal systems approach AI generated
+works differently. This introduces an important element of comparative reasoning.
+However, the response contains several legal claims that are quite specific and would
+need careful verification. It also sometimes treats analogies, such as comparing AI
+direction with film directing, as stronger evidence than they actually are. An analogy can
+support an argument, but it does not by itself establish that the legal treatment should be
+identical.
+● 
+
+=== PAGE 10 ===
+ Copilot  Approach: Copilot takes a strongly persuasive and utilitarian approach. It builds
+almost entirely on the idea that copyright should be understood as an incentive system
+designed to encourage creativity, investment, and cultural production.
+It develops this through four main areas: human direction, historical technological
+change, economic stability, and protection for independent creators. It then responds to
+several objections concerning AI authorship, market flooding, and training data.
+Copilot's reasoning is easy to follow because the argument is presented in a clear
+sequence. It also makes use of historical comparisons and practical examples to support
+its position.
+However, compared with ChatGPT and Gemini, Copilot is less critical of its own
+assumptions. It strongly presents the utilitarian view without spending much time
+considering whether maximizing economic output should be the main purpose of
+copyright. Its language is also more persuasive than analytical in places, particularly
+when it describes its own argument as the "strongest position."
+● 
+Prompt: "Make the strongest argument you can against giving AI-generated art and music copyright
+protection similar to human-created work. What are the main reasons for opposing it, and how would
+you respond to people who support it??" 
+Prompt 5: The Limits of AI Authorship
+ Chatgpt  Approach: ChatGPT takes a balanced and conditional approach to the argument
+against copyright protection. It begins with human authorship as the central issue, then
+develops the argument through several related concerns such as market flooding,
+training data, originality, and the amount of human contribution.
+A strong feature of the response is that it actively considers the arguments on the other
+side. It responds to the idea that AI is simply another creative tool, questions whether
+prompting always represents substantial creativity, and considers whether copyright
+should adapt to technological change.
+ChatGPT also avoids an absolute position. Its conclusion distinguishes between AI-
+assisted work with significant human authorship and largely autonomous AI generation.
+This shows an awareness that the issue exists on a spectrum rather than having only two
+possible categories.
+From a critical-thinking perspective, this is useful because the response identifies the
+central assumption behind the argument and then tests it against different situations.
+However, it provides relatively little external evidence, so several of its legal and factual
+claims would need further verification.
+● 
+
+=== PAGE 11 ===
+ Gemini  Approach: Gemini uses a much more legal, economic, and philosophical
+approach. It frames copyright as a system intended to protect human creative labour and
+argues that extending protection to autonomous AI outputs could change the purpose of
+copyright itself.
+Its reasoning is built around several major concepts, including human authorship,
+market flooding, training data, and the difference between effort and originality. One
+particularly interesting part is its discussion of the "sweat of the brow" argument. It
+distinguishes between spending time or money on generating content and actually
+contributing original expression.
+Gemini also makes a detailed attempt to rebut the arguments in favour of AI copyright.
+Rather than simply repeating that AI lacks human authorship, it challenges the analogies
+between AI prompting and activities such as directing a film or framing a photograph.
+This makes the response more argumentative and detailed than ChatGPT's. However, it
+also contains many strong legal and economic claims that are presented with
+considerable confidence. Some of these claims would require reliable sources and careful
+legal context before being treated as established facts.
+● 
+ Copilot  Approach: Copilot takes the most concise and direct approach of the three. It
+identifies four main reasons for opposing AI copyright: lack of human authorship, the
+risk of corporate monopolies, the derivative nature of AI outputs, and the benefits of
+keeping such material in the public domain.
+It then responds to common arguments supporting AI copyright, including the idea that
+humans direct AI, that copyright encourages innovation, that AI outputs have economic
+value, and that AI is comparable to earlier technologies such as photography.
+This demonstrates basic critical-thinking principles because Copilot considers opposing
+arguments instead of presenting only one side. It also attempts to distinguish AI from
+earlier creative technologies by focusing on the degree of human creative control.
+However, its reasoning is less developed than Gemini's. Several claims are stated without
+exploring their underlying assumptions or possible limitations. For example, the claim
+that putting AI outputs in the public domain would accelerate innovation is possible, but
+it is not established simply by stating it. It would require evidence or further analysis.
+● 
+
+=== PAGE 12 ===
+References
+1.U.S. Copyright Office. (2025). Copyright and Artificial Intelligence.
+https://www.copyright.gov/ai/
+2.U.S. Copyright Office. (2025). Copyright and Artificial Intelligence, Part 2: Copyrightability.
+https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-
+Report.pdf
+3.Thaler v. Perlmutter, 687 F. Supp. 3d 140 (D.D.C. 2023). U.S. Copyright Office.
+https://www.copyright.gov/ai/
+4.UK Government. (1988). Copyright, Designs and Patents Act 1988, Section 9(3).
+https://www.legislation.gov.uk/ukpga/1988/48/section/9
+5.World Intellectual Property Organization (WIPO). (2024). Artificial Intelligence and
+Copyright. https://www.wipo.int/en/web/wipo-magazine/articles/artificial-intelligence-and-
+copyright-40141
+6.World Intellectual Property Organization (WIPO). (2024). Generative AI: Navigating
+Intellectual Property. https://www.wipo.int/publications/en/details.jsp?id=4713
+7.U.S. Copyright Office. (2025). Identifying the Economic Implications of Artificial
+Intelligence for Copyright Policy. https://www.copyright.gov/economic-research/economic-
+implications-of-ai/
+
